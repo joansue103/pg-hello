@@ -8,8 +8,7 @@ function onDeviceReady() {
 
 function deviceInfo() {
 
-	info =  'Hi, My name is Joanna Margielewska :-)' + '\n' +
-			'I am from Cracow' ; 
+	info =  'Hi, My name is Joanna Margielewska' ;
 
 	navigator.notification.alert(info);
 	
